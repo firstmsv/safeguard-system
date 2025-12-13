@@ -27,6 +27,7 @@ through electronic devices and triggering alerts when a risk situation is detect
 - Requirements mapping
 - Architecture and technology evaluation
 
+
 ## ⚠️ Disclaimer
 This project is under active development and is not production-ready.
 
