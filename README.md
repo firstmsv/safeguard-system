@@ -1,30 +1,32 @@
 ## 🚧 SafeGuard – Project in Development
 
-SafeGuard is a system under development focused on monitoring and protecting victims of domestic violence
-through proximity control and real-time alerts.
+SafeGuard is a system under development focused on monitoring and protecting
+victims of domestic violence through technology and real-time alerts.
 
-This repository represents the planning and early development phase of the project.
+This repository represents an ongoing project in its planning and early
+development stages.
 
-## 🎯 Project Objective
-To design a system capable of monitoring aggressors using electronic devices and notifying victims
-and authorities when a risk situation is detected.
+## 🎯 Project Purpose
+The purpose of SafeGuard is to support victim protection by monitoring aggressors
+through electronic devices and triggering alerts when a risk situation is detected.
 
 ## 🛠️ Planned Technologies
-- Backend: Java / Django (under evaluation)
-- Database: PostgreSQL / Firebase
-- Mobile: Flutter
-- APIs and real-time monitoring
+- Backend: Java or Django (under evaluation)
+- Database: PostgreSQL or Firebase
+- Mobile Application: Flutter
+- APIs for geolocation and real-time alerts
 
 ## 🧩 Planned Features
 - User registration (victims and authorities)
-- Proximity monitoring
-- Automatic alerts
-- Accessibility-focused interface
+- Proximity and geolocation monitoring
+- Automatic alert notifications
+- Accessibility-focused user interface
 
 ## 📅 Current Status
-- Project concept defined
-- Architecture planning
-- Documentation phase
+- Concept defined
+- Requirements mapping
+- Architecture and technology evaluation
 
 ## ⚠️ Disclaimer
-This project is currently under development and is not production-ready.
+This project is under active development and is not production-ready.
+
