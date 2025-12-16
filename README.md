@@ -1,33 +1,53 @@
-## 🚧 SafeGuard – Project in Development
+# SafeGuard System (Concept Project)
 
-SafeGuard is a system under development focused on monitoring and protecting
-victims of domestic violence through technology and real-time alerts.
+SafeGuard is a conceptual backend system designed to explore how technology can support victim protection and public safety.
 
-This repository represents an ongoing project in its planning and early
-development stages.
+This project focuses on system analysis, backend architecture, and data modeling. It is not a production system and does not process real user data.
+
+---
 
 ## 🎯 Project Purpose
-The purpose of SafeGuard is to support victim protection by monitoring aggressors
-through electronic devices and triggering alerts when a risk situation is detected.
+The purpose of this project is to demonstrate system design thinking applied to a sensitive social context, focusing on:
+- Entity modeling
+- Backend logic
+- Alert and monitoring workflows
+- Ethical and privacy considerations
 
-## 🛠️ Planned Technologies
-- Backend: Java or Django (under evaluation)
-- Database: PostgreSQL or Firebase
-- Mobile Application: Flutter
-- APIs for geolocation and real-time alerts
+---
 
-## 🧩 Planned Features
-- User registration (victims and authorities)
-- Proximity and geolocation monitoring
-- Automatic alert notifications
-- Accessibility-focused user interface
+## 🧠 System Concept
+The system concept is based on:
+- Registered users (victims, authorities, monitored individuals)
+- Location monitoring events
+- Alert thresholds and notifications
+- Access control and role separation
 
-## 📅 Current Status
-- Concept defined
-- Requirements mapping
-- Architecture and technology evaluation
+No real-time tracking or live data is implemented.
 
+---
+
+## 🗂️ System Components (Conceptual)
+- User Management
+- Monitoring Module
+- Alert Rules Engine
+- Notification Flow
+- Audit Logs
+
+---
+
+## 🛠️ Technologies (Conceptual)
+- Java (planned)
+- Spring Boot (planned)
+- PostgreSQL (planned)
+- REST API (planned)
+
+---
 
 ## ⚠️ Disclaimer
-This project is under active development and is not production-ready.
+This project is a conceptual and academic exercise. It does not represent a deployed or operational system and should not be interpreted as such.
+
+---
+
+## 📌 Project Type
+Concept Project | System Design | Academic Study
 
