@@ -53,8 +53,4 @@ This project is a conceptual and academic exercise. It does not represent a depl
 ## 📌 Project Type
 Concept Project | System Design | Academic Study
 
----
-
-## 📌 Project Type
-Concept Project | System Design | Academic Study
 
