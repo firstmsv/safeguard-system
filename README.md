@@ -1,56 +1,65 @@
-# SafeGuard System (Concept Project)
+# SafeGuard — Academic System Design & Desktop Application
 
-SafeGuard is a conceptual backend system designed to explore how technology can support victim protection and public safety.
+SafeGuard is an academic project that explores how software systems can support victim protection and public safety.
 
-This project focuses on system analysis, backend architecture, and data modeling. It is not a production system and does not process real user data.
+The project started as a **conceptual system design study** and was later expanded into a **desktop-based implementation** to consolidate practical development skills.
 
 ---
 
 ## 🎯 Project Purpose
-The purpose of this project is to demonstrate system design thinking applied to a sensitive social context, focusing on:
 
-- Entity modeling  
-- Backend logic  
-- Alert and monitoring workflows  
-- Ethical and privacy considerations  
-
----
-
-## 🧠 System Concept
-The system concept is based on:
-
-- Registered users (victims, authorities, monitored individuals)  
-- Location monitoring events  
-- Alert thresholds and notifications  
-- Access control and role separation  
-
-**No real-time tracking or live data is implemented.**
+This project aims to demonstrate:
+- System design thinking
+- Object-oriented programming
+- Database modeling and integration
+- Desktop application development
+- Ethical and privacy-aware software design
 
 ---
 
-## 🗂️ System Components (Conceptual)
-- User Management  
-- Monitoring Module  
-- Alert Rules Engine  
-- Notification Flow  
-- Audit Logs  
+## 🧠 Project Evolution
+
+**Phase 1 — Conceptual Design**
+- System analysis
+- Entity modeling
+- Alert and monitoring workflows
+- Access control concepts
+
+**Phase 2 — Technical Implementation**
+- Java desktop application
+- MySQL database integration
+- CRUD operations
+- GUI development
+- Version control with GitHub
 
 ---
 
-## 🛠️ Technologies (Conceptual)
-- Java (planned)  
-- Spring Boot (planned)  
-- PostgreSQL (planned)  
-- REST API (planned)  
+## 🧩 Core Features (Academic Scope)
+
+- User registration (victims, authorities, monitored individuals)
+- Incident and occurrence records
+- Alert level handling
+- Structured data persistence
+- Desktop-based interface
+
+---
+
+## 🛠️ Technologies Used
+
+- Java (Desktop)
+- MySQL
+- Git & GitHub
+- NetBeans IDE
 
 ---
 
 ## ⚠️ Disclaimer
-This project is a conceptual and academic exercise. It does not represent a deployed or operational system and should not be interpreted as such.
+
+This project is an **academic exercise only**.
+It is not a production system and does not handle real user data or real-time tracking.
 
 ---
 
 ## 📌 Project Type
-Concept Project | System Design | Academic Study
 
-
+Academic Project | System Design | Desktop Application
