@@ -1,53 +1,50 @@
-# SafeGuard — Sistema de Monitoramento para Proteção de Vítimas de Violência Doméstica
+# SafeGuard — Academic System Design & Desktop Application
 
-## Status do Projeto
-🚧 Em desenvolvimento
+SafeGuard is an academic project focused on system design and backend-oriented software development, exploring how structured applications can support victim protection and public safety scenarios.
 
-## Tecnologias Utilizadas
-- Java (Swing — interface desktop)
-- MySQL 8.x (banco de dados relacional)
-- JDBC (integração Java + MySQL)
+The project began as a conceptual system design study and later evolved into a Java desktop application to consolidate practical development skills.
+
+## 🎯 Project Purpose
+This project demonstrates:
+- System design and architectural thinking
+- Object-oriented programming with Java
+- Database modeling and MySQL integration
+- Desktop application development
+- Ethical and privacy-aware software design
+
+## 🧠 Project Evolution
+
+### Phase 1 — Conceptual Design
+- System analysis and modeling
+- Entity and relationship design
+- Alert and monitoring workflows
+- Access control concepts
+
+### Phase 2 — Technical Implementation
+- Java desktop application development
+- MySQL database integration
+- CRUD operations
+- GUI development
+- Version control using Git & GitHub
+
+## 🧩 Core Features (Academic Scope)
+- User registration (victims, authorities, monitored individuals)
+- Incident and occurrence records
+- Alert level management
+- Structured data persistence
+- Desktop-based user interface
+
+## 🛠️ Technologies Used
+- Java (Desktop)
+- MySQL
+- Git & GitHub
 - NetBeans IDE
 
-## Time de Desenvolvedores
-| Nome | Função |
-|---|---|
-| Marcelo Santos da Vitória | Desenvolvedor backend / banco de dados |
-| Wesley da Silva Marques | Desenvolvedor frontend / interfaces |
+## ⚠️ Disclaimer
+This project is an academic exercise only.  
+It is not a production system and does not handle real user data or real-time tracking.
 
-## Objetivo do Software
-O SafeGuard é um sistema desktop desenvolvido para apoiar e monitorar casos de violência doméstica. Permite o cadastro de vítimas e agressores, o registro de ocorrências e a emissão de alertas para autoridades competentes, contribuindo para a proteção e organização das informações relacionadas a medidas protetivas.
+## 📌 Project Type
+Academic Project | System Design | Backend-Oriented Desktop Application
 
-## Funcionalidades do Sistema
-- ✅ Autenticação de usuários por perfil (Administrador, Autoridade, Operador)
-- ✅ Cadastro e consulta de vítimas com medida protetiva
-- ✅ Cadastro e consulta de agressores vinculados a vítimas
-- ✅ Registro de ocorrências com tipo, local, data e descrição
-- ✅ Emissão de alertas (Emergência, Aviso, Monitoramento)
-- ✅ Painel principal com estatísticas e ocorrências recentes
-- ✅ Integração com banco de dados MySQL via JDBC
 
-## Como Executar
-1. Importe o script `safeguard_db.sql` no MySQL Workbench
-2. Adicione o driver `mysql-connector-java.jar` ao projeto no NetBeans
-3. Ajuste usuário/senha em `safeguard/db/ConexaoBD.java` se necessário
-4. Execute a classe `safeguard.ui.Main`
-
-**Credenciais de teste:** `admin@safeguard.br` / `1234`
-
-## Estrutura de Pacotes
-```
-safeguard/
-├── db/           # Acesso ao banco (DAOs + ConexaoBD)
-├── ui/           # Interfaces gráficas (Swing)
-│   ├── Estilo.java
-│   ├── Main.java
-│   ├── TelaLogin.java
-│   ├── TelaPrincipal.java
-│   ├── PainelInicio.java
-│   ├── PainelVitima.java
-│   ├── PainelAgressor.java
-│   ├── PainelOcorrencia.java
-│   └── PainelAlerta.java
-└── (model classes)
-```
