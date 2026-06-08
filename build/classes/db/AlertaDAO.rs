@@ -1,0 +1,1 @@
+safeguard.db.AlertaDAO
